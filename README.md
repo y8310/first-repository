@@ -1,2 +1,2 @@
 # first-repository
-seplus研修
+github練習用のリポジトリ
